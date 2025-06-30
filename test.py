@@ -1,7 +1,7 @@
 import os
 import csv
 
-BASE_DIR = "/home/vivek/Desktop/inte/hostel"
+BASE_DIR = "/hostel"
 OUTPUT_CSV = "pdf_basic_info.csv"
 
 def find_pdfs_basic(root_folder):
